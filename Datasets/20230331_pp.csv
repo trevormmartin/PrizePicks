@@ -1,0 +1,687 @@
+,Name,Stat,Line
+0,Nikola Vucevic,Points,18.5
+1,Patrick Beverley,Points,6.5
+2,Zach LaVine,Points,26.5
+3,DeMar DeRozan,Points,22.5
+4,Mark Williams,Points,13.5
+5,P.J. Washington,Points,19.5
+6,Joel Embiid,Points,33.5
+7,Pascal Siakam,Points,21.5
+8,James Harden,Points,20.5
+9,Fred VanVleet,Points,18.5
+10,Tyrese Maxey,Points,20.5
+11,Scottie Barnes,Points,15.5
+12,OG Anunoby,Points,15.5
+13,Jakob Poeltl,Points,12.0
+14,Kristaps Porzingis,Points,26.5
+15,Paolo Banchero,Points,20.5
+16,Monte Morris,Points,11.5
+17,Wendell Carter Jr.,Points,15.5
+18,Franz Wagner,Points,17.5
+19,Corey Kispert,Points,14.5
+20,Markelle Fultz,Points,14.5
+21,Gary Harris,Points,7.5
+22,Deni Avdija,Points,15.5
+23,Cole Anthony,Points,13.5
+24,Jalen Suggs,Points,9.5
+25,Josh Giddey,Points,17.5
+26,Jalen Williams,Points,18.5
+27,Bennedict Mathurin,Points,20.5
+28,Aaron Nesmith,Points,12.5
+29,Andrew Nembhard,Points,14.0
+30,Luguentz Dort,Points,14.5
+31,Jaylin Williams,Points,7.0
+32,T.J. McConnell,Points,11.5
+33,Talen Horton-Tucker,Points,18.5
+34,Ochai Agbaji,Points,12.5
+35,Walker Kessler,Points,12.5
+36,Donovan Mitchell,Points,28.5
+37,Jalen Brunson,Points,24.5
+38,Darius Garland,Points,22.5
+39,RJ Barrett,Points,20.5
+40,Evan Mobley,Points,17.0
+41,Quentin Grimes,Points,12.5
+42,Caris LeVert,Points,13.5
+43,Lamar Stevens,Points,8.0
+44,Trae Young,Points,26.0
+45,LeBron James,Points,26.5
+46,Mikal Bridges,Points,27.5
+47,Anthony Davis,Points,26.0
+48,Dejounte Murray,Points,19.5
+49,D'Angelo Russell,Points,17.5
+50,Spencer Dinwiddie,Points,19.5
+51,Clint Capela,Points,11.5
+52,Nicolas Claxton,Points,12.5
+53,Austin Reaves,Points,14.5
+54,Cameron Johnson,Points,16.5
+55,John Collins,Points,11.5
+56,Dorian Finney-Smith,Points,7.5
+57,Jalen Green,Points,23.5
+58,Jaden Ivey,Points,20.0
+59,Kevin Porter Jr.,Points,19.5
+60,Marvin Bagley III,Points,14.5
+61,Alperen Sengun,Points,14.5
+62,James Wiseman,Points,14.5
+63,Jabari Smith Jr.,Points,14.5
+64,Killian Hayes,Points,13.5
+65,Ja Morant,Points,27.5
+66,Kawhi Leonard,Points,25.5
+67,Desmond Bane,Points,21.5
+68,Jaren Jackson Jr.,Points,17.5
+69,Dillon Brooks,Points,11.5
+70,Xavier Tillman,Points,9.5
+71,De'Aaron Fox,Points,22.5
+72,Domantas Sabonis,Points,17.5
+73,Shaedon Sharpe,Points,22.5
+74,Harrison Barnes,Points,13.5
+75,Nassir Little,Points,14.5
+76,Drew Eubanks,Points,9.5
+77,Kevin Huerter,Points,14.5
+78,Keegan Murray,Points,11.5
+79,Stephen Curry,Points,28.5
+80,Klay Thompson,Points,21.5
+81,Draymond Green,Points,9.5
+82,Donte DiVincenzo,Points,8.0
+83,Jordan Poole,Points,20.5
+84,Devin Booker,Points,27.5
+85,Kevin Durant,Points,23.0
+86,Chris Paul,Points,12.5
+87,Deandre Ayton,Points,14.5
+0,Nikola Vucevic,Rebounds,12.0
+1,Patrick Beverley,Rebounds,4.0
+2,Zach LaVine,Rebounds,4.0
+3,DeMar DeRozan,Rebounds,5.0
+4,Mark Williams,Rebounds,8.5
+5,P.J. Washington,Rebounds,5.0
+6,Joel Embiid,Rebounds,10.0
+7,Pascal Siakam,Rebounds,7.5
+8,James Harden,Rebounds,6.0
+9,Fred VanVleet,Rebounds,3.5
+10,Scottie Barnes,Rebounds,6.0
+11,OG Anunoby,Rebounds,4.0
+12,Jakob Poeltl,Rebounds,8.5
+13,P.J. Tucker,Rebounds,3.5
+14,Kristaps Porzingis,Rebounds,8.0
+15,Paolo Banchero,Rebounds,7.5
+16,Wendell Carter Jr.,Rebounds,9.0
+17,Franz Wagner,Rebounds,4.0
+18,Deni Avdija,Rebounds,8.5
+19,Cole Anthony,Rebounds,5.0
+20,Jalen Suggs,Rebounds,3.5
+21,Jalen Williams,Rebounds,5.5
+22,Bennedict Mathurin,Rebounds,4.5
+23,Josh Giddey,Rebounds,8.5
+24,Andrew Nembhard,Rebounds,2.5
+25,Luguentz Dort,Rebounds,4.5
+26,Jaylin Williams,Rebounds,5.5
+27,T.J. McConnell,Rebounds,3.5
+28,Talen Horton-Tucker,Rebounds,4.5
+29,Ochai Agbaji,Rebounds,2.5
+30,Walker Kessler,Rebounds,10.5
+31,Donovan Mitchell,Rebounds,5.0
+32,Jalen Brunson,Rebounds,3.5
+33,RJ Barrett,Rebounds,5.0
+34,Evan Mobley,Rebounds,9.5
+35,Quentin Grimes,Rebounds,3.5
+36,Caris LeVert,Rebounds,4.0
+37,Lamar Stevens,Rebounds,6.0
+38,LeBron James,Rebounds,8.0
+39,Mikal Bridges,Rebounds,4.0
+40,Anthony Davis,Rebounds,11.5
+41,Dejounte Murray,Rebounds,5.0
+42,D'Angelo Russell,Rebounds,2.5
+43,Clint Capela,Rebounds,11.0
+44,Nicolas Claxton,Rebounds,9.5
+45,John Collins,Rebounds,5.5
+46,Dorian Finney-Smith,Rebounds,4.5
+47,Kevin Porter Jr.,Rebounds,5.5
+48,Marvin Bagley III,Rebounds,7.5
+49,Alperen Sengun,Rebounds,9.5
+50,James Wiseman,Rebounds,8.0
+51,Jabari Smith Jr.,Rebounds,8.0
+52,Ja Morant,Rebounds,6.0
+53,Kawhi Leonard,Rebounds,7.0
+54,Desmond Bane,Rebounds,4.5
+55,Jaren Jackson Jr.,Rebounds,7.0
+56,Xavier Tillman,Rebounds,6.5
+57,De'Aaron Fox,Rebounds,3.5
+58,Domantas Sabonis,Rebounds,11.5
+59,Shaedon Sharpe,Rebounds,5.0
+60,Harrison Barnes,Rebounds,4.5
+61,Nassir Little,Rebounds,4.0
+62,Drew Eubanks,Rebounds,7.0
+63,Kevin Huerter,Rebounds,3.5
+64,Keegan Murray,Rebounds,5.0
+65,Stephen Curry,Rebounds,6.0
+66,Draymond Green,Rebounds,7.0
+67,Donte DiVincenzo,Rebounds,3.5
+68,Devin Booker,Rebounds,4.0
+69,Kevin Durant,Rebounds,6.0
+70,Deandre Ayton,Rebounds,8.5
+0,Zach LaVine,Assists,4.0
+1,DeMar DeRozan,Assists,5.0
+2,P.J. Washington,Assists,3.0
+3,Joel Embiid,Assists,4.0
+4,Pascal Siakam,Assists,5.0
+5,James Harden,Assists,10.5
+6,Fred VanVleet,Assists,7.0
+7,Scottie Barnes,Assists,4.0
+8,Monte Morris,Assists,5.5
+9,Franz Wagner,Assists,3.5
+10,Markelle Fultz,Assists,5.5
+11,Deni Avdija,Assists,4.5
+12,Cole Anthony,Assists,3.0
+13,Jalen Williams,Assists,4.0
+14,Josh Giddey,Assists,7.5
+15,Andrew Nembhard,Assists,6.5
+16,T.J. McConnell,Assists,7.0
+17,Talen Horton-Tucker,Assists,5.0
+18,Ochai Agbaji,Assists,1.5
+19,Donovan Mitchell,Assists,4.0
+20,Jalen Brunson,Assists,6.0
+21,Darius Garland,Assists,7.0
+22,Trae Young,Assists,9.5
+23,LeBron James,Assists,5.0
+24,Dejounte Murray,Assists,5.0
+25,D'Angelo Russell,Assists,5.0
+26,Spencer Dinwiddie,Assists,9.0
+27,Austin Reaves,Assists,4.0
+28,Jalen Green,Assists,3.5
+29,Jaden Ivey,Assists,6.0
+30,Kevin Porter Jr.,Assists,6.0
+31,Killian Hayes,Assists,7.0
+32,Ja Morant,Assists,7.5
+33,Kawhi Leonard,Assists,4.0
+34,De'Aaron Fox,Assists,5.5
+35,Domantas Sabonis,Assists,6.5
+36,Shaedon Sharpe,Assists,4.0
+37,Stephen Curry,Assists,6.5
+38,Draymond Green,Assists,7.0
+39,Donte DiVincenzo,Assists,2.5
+40,Jordan Poole,Assists,4.0
+41,Devin Booker,Assists,5.0
+42,Chris Paul,Assists,9.0
+0,Nikola Vucevic,Pts+Rebs+Asts,34.0
+1,Patrick Beverley,Pts+Rebs+Asts,13.5
+2,Zach LaVine,Pts+Rebs+Asts,34.5
+3,DeMar DeRozan,Pts+Rebs+Asts,32.5
+4,Mark Williams,Pts+Rebs+Asts,23.5
+5,P.J. Washington,Pts+Rebs+Asts,28.5
+6,Joel Embiid,Pts+Rebs+Asts,47.5
+7,Pascal Siakam,Pts+Rebs+Asts,34.5
+8,James Harden,Pts+Rebs+Asts,36.5
+9,Fred VanVleet,Pts+Rebs+Asts,30.5
+10,Tyrese Maxey,Pts+Rebs+Asts,27.5
+11,Scottie Barnes,Pts+Rebs+Asts,25.5
+12,OG Anunoby,Pts+Rebs+Asts,21.5
+13,Jakob Poeltl,Pts+Rebs+Asts,23.5
+14,P.J. Tucker,Pts+Rebs+Asts,7.5
+15,Kristaps Porzingis,Pts+Rebs+Asts,38.5
+16,Paolo Banchero,Pts+Rebs+Asts,31.5
+17,Monte Morris,Pts+Rebs+Asts,20.5
+18,Wendell Carter Jr.,Pts+Rebs+Asts,27.0
+19,Corey Kispert,Pts+Rebs+Asts,19.5
+20,Franz Wagner,Pts+Rebs+Asts,25.5
+21,Markelle Fultz,Pts+Rebs+Asts,24.5
+22,Deni Avdija,Pts+Rebs+Asts,29.0
+23,Cole Anthony,Pts+Rebs+Asts,22.5
+24,Jalen Suggs,Pts+Rebs+Asts,14.5
+25,Jalen Williams,Pts+Rebs+Asts,28.0
+26,Bennedict Mathurin,Pts+Rebs+Asts,27.5
+27,Josh Giddey,Pts+Rebs+Asts,34.5
+28,Andrew Nembhard,Pts+Rebs+Asts,23.5
+29,Aaron Nesmith,Pts+Rebs+Asts,18.5
+30,Luguentz Dort,Pts+Rebs+Asts,22.5
+31,T.J. McConnell,Pts+Rebs+Asts,22.5
+32,Talen Horton-Tucker,Pts+Rebs+Asts,28.5
+33,Ochai Agbaji,Pts+Rebs+Asts,16.5
+34,Walker Kessler,Pts+Rebs+Asts,24.5
+35,Donovan Mitchell,Pts+Rebs+Asts,37.5
+36,Jalen Brunson,Pts+Rebs+Asts,34.5
+37,Darius Garland,Pts+Rebs+Asts,33.5
+38,Evan Mobley,Pts+Rebs+Asts,29.5
+39,Caris LeVert,Pts+Rebs+Asts,21.5
+40,Lamar Stevens,Pts+Rebs+Asts,15.0
+41,Trae Young,Pts+Rebs+Asts,38.5
+42,LeBron James,Pts+Rebs+Asts,39.5
+43,Mikal Bridges,Pts+Rebs+Asts,34.5
+44,Anthony Davis,Pts+Rebs+Asts,39.5
+45,Dejounte Murray,Pts+Rebs+Asts,30.5
+46,D'Angelo Russell,Pts+Rebs+Asts,25.5
+47,Spencer Dinwiddie,Pts+Rebs+Asts,32.5
+48,Clint Capela,Pts+Rebs+Asts,23.5
+49,Nicolas Claxton,Pts+Rebs+Asts,24.5
+50,Austin Reaves,Pts+Rebs+Asts,22.5
+51,Cameron Johnson,Pts+Rebs+Asts,23.5
+52,John Collins,Pts+Rebs+Asts,18.5
+53,Jalen Green,Pts+Rebs+Asts,30.5
+54,Jaden Ivey,Pts+Rebs+Asts,30.5
+55,Kevin Porter Jr.,Pts+Rebs+Asts,31.5
+56,Marvin Bagley III,Pts+Rebs+Asts,22.5
+57,Alperen Sengun,Pts+Rebs+Asts,28.5
+58,James Wiseman,Pts+Rebs+Asts,22.5
+59,Jabari Smith Jr.,Pts+Rebs+Asts,25.0
+60,Killian Hayes,Pts+Rebs+Asts,23.5
+61,Ja Morant,Pts+Rebs+Asts,40.5
+62,Kawhi Leonard,Pts+Rebs+Asts,37.5
+63,Desmond Bane,Pts+Rebs+Asts,29.5
+64,Jaren Jackson Jr.,Pts+Rebs+Asts,25.5
+65,Xavier Tillman,Pts+Rebs+Asts,18.5
+66,De'Aaron Fox,Pts+Rebs+Asts,31.5
+67,Domantas Sabonis,Pts+Rebs+Asts,35.5
+68,Shaedon Sharpe,Pts+Rebs+Asts,31.5
+69,Harrison Barnes,Pts+Rebs+Asts,19.5
+70,Nassir Little,Pts+Rebs+Asts,21.5
+71,Drew Eubanks,Pts+Rebs+Asts,19.5
+72,Kevin Huerter,Pts+Rebs+Asts,21.5
+73,Stephen Curry,Pts+Rebs+Asts,41.5
+74,Klay Thompson,Pts+Rebs+Asts,28.0
+75,Draymond Green,Pts+Rebs+Asts,23.5
+76,Jordan Poole,Pts+Rebs+Asts,27.5
+77,Devin Booker,Pts+Rebs+Asts,36.5
+78,Kevin Durant,Pts+Rebs+Asts,33.0
+79,Chris Paul,Pts+Rebs+Asts,25.5
+80,Deandre Ayton,Pts+Rebs+Asts,24.5
+0,Nikola Vucevic,Fantasy Score,39.5
+1,Zach LaVine,Fantasy Score,38.5
+2,DeMar DeRozan,Fantasy Score,38.5
+3,Pascal Siakam,Fantasy Score,38.5
+4,Joel Embiid,Fantasy Score,55.5
+5,Fred VanVleet,Fantasy Score,38.5
+6,James Harden,Fantasy Score,45.5
+7,Scottie Barnes,Fantasy Score,30.5
+8,Tyrese Maxey,Fantasy Score,31.5
+9,OG Anunoby,Fantasy Score,26.5
+10,Jakob Poeltl,Fantasy Score,27.5
+11,Paolo Banchero,Fantasy Score,35.5
+12,Kristaps Porzingis,Fantasy Score,44.5
+13,Wendell Carter Jr.,Fantasy Score,31.0
+14,Deni Avdija,Fantasy Score,32.5
+15,Franz Wagner,Fantasy Score,29.5
+16,Monte Morris,Fantasy Score,25.5
+17,Markelle Fultz,Fantasy Score,31.0
+18,Corey Kispert,Fantasy Score,22.5
+19,Jalen Williams,Fantasy Score,35.5
+20,Bennedict Mathurin,Fantasy Score,30.5
+21,Josh Giddey,Fantasy Score,38.5
+22,Andrew Nembhard,Fantasy Score,29.5
+23,Aaron Nesmith,Fantasy Score,21.5
+24,Luguentz Dort,Fantasy Score,26.5
+25,Talen Horton-Tucker,Fantasy Score,30.5
+26,Ochai Agbaji,Fantasy Score,20.5
+27,Walker Kessler,Fantasy Score,33.5
+28,Donovan Mitchell,Fantasy Score,43.5
+29,Jalen Brunson,Fantasy Score,39.5
+30,Darius Garland,Fantasy Score,37.5
+31,RJ Barrett,Fantasy Score,29.5
+32,Evan Mobley,Fantasy Score,36.5
+33,Quentin Grimes,Fantasy Score,21.5
+34,Caris LeVert,Fantasy Score,27.5
+35,Trae Young,Fantasy Score,43.5
+36,LeBron James,Fantasy Score,44.5
+37,Mikal Bridges,Fantasy Score,38.5
+38,Anthony Davis,Fantasy Score,48.5
+39,Dejounte Murray,Fantasy Score,36.5
+40,D'Angelo Russell,Fantasy Score,29.5
+41,Spencer Dinwiddie,Fantasy Score,38.5
+42,Clint Capela,Fantasy Score,29.5
+43,Nicolas Claxton,Fantasy Score,35.5
+44,Austin Reaves,Fantasy Score,26.5
+45,Cameron Johnson,Fantasy Score,28.5
+46,John Collins,Fantasy Score,23.5
+47,Jalen Green,Fantasy Score,33.5
+48,Jaden Ivey,Fantasy Score,34.0
+49,Kevin Porter Jr.,Fantasy Score,37.5
+50,Marvin Bagley III,Fantasy Score,27.5
+51,Alperen Sengun,Fantasy Score,34.0
+52,James Wiseman,Fantasy Score,25.5
+53,Jabari Smith Jr.,Fantasy Score,29.0
+54,Killian Hayes,Fantasy Score,30.5
+55,Ja Morant,Fantasy Score,47.5
+56,Kawhi Leonard,Fantasy Score,44.5
+57,Desmond Bane,Fantasy Score,34.5
+58,Jaren Jackson Jr.,Fantasy Score,35.5
+59,Xavier Tillman,Fantasy Score,24.5
+60,De'Aaron Fox,Fantasy Score,39.5
+61,Shaedon Sharpe,Fantasy Score,35.5
+62,Domantas Sabonis,Fantasy Score,41.5
+63,Nassir Little,Fantasy Score,25.5
+64,Harrison Barnes,Fantasy Score,23.5
+65,Drew Eubanks,Fantasy Score,24.5
+66,Kevin Huerter,Fantasy Score,25.5
+67,Keegan Murray,Fantasy Score,22.5
+68,Stephen Curry,Fantasy Score,46.5
+69,Klay Thompson,Fantasy Score,31.5
+70,Draymond Green,Fantasy Score,30.5
+71,Jordan Poole,Fantasy Score,31.5
+72,Devin Booker,Fantasy Score,41.5
+73,Kevin Durant,Fantasy Score,39.0
+74,Chris Paul,Fantasy Score,35.5
+75,Deandre Ayton,Fantasy Score,28.5
+0,Nikola Vucevic,3-PT Made,1.5
+1,Zach LaVine,3-PT Made,2.5
+2,P.J. Washington,3-PT Made,2.5
+3,James Harden,3-PT Made,2.5
+4,Tyrese Maxey,3-PT Made,2.5
+5,P.J. Tucker,3-PT Made,0.5
+6,Franz Wagner,3-PT Made,1.5
+7,Bennedict Mathurin,3-PT Made,1.5
+8,Andrew Nembhard,3-PT Made,1.5
+9,Talen Horton-Tucker,3-PT Made,1.5
+10,RJ Barrett,3-PT Made,1.5
+11,Quentin Grimes,3-PT Made,2.5
+12,Lamar Stevens,3-PT Made,0.5
+13,Mikal Bridges,3-PT Made,2.5
+14,D'Angelo Russell,3-PT Made,2.5
+15,Cameron Johnson,3-PT Made,2.5
+16,Marvin Bagley III,3-PT Made,0.5
+17,Ja Morant,3-PT Made,1.5
+18,De'Aaron Fox,3-PT Made,1.5
+19,Kevin Huerter,3-PT Made,2.5
+20,Donte DiVincenzo,3-PT Made,1.5
+0,Mark Williams,Pts+Rebs,22.5
+1,P.J. Washington,Pts+Rebs,25.5
+2,Joel Embiid,Pts+Rebs,44.0
+3,Pascal Siakam,Pts+Rebs,29.5
+4,James Harden,Pts+Rebs,26.5
+5,Fred VanVleet,Pts+Rebs,22.5
+6,Tyrese Maxey,Pts+Rebs,24.0
+7,Scottie Barnes,Pts+Rebs,21.5
+8,OG Anunoby,Pts+Rebs,19.5
+9,Jakob Poeltl,Pts+Rebs,20.5
+10,Kristaps Porzingis,Pts+Rebs,34.5
+11,Paolo Banchero,Pts+Rebs,27.5
+12,Wendell Carter Jr.,Pts+Rebs,25.5
+13,Monte Morris,Pts+Rebs,14.5
+14,Corey Kispert,Pts+Rebs,17.5
+15,Franz Wagner,Pts+Rebs,22.5
+16,Markelle Fultz,Pts+Rebs,18.5
+17,Deni Avdija,Pts+Rebs,24.5
+18,Cole Anthony,Pts+Rebs,19.5
+19,Jalen Suggs,Pts+Rebs,12.5
+20,Jalen Williams,Pts+Rebs,24.5
+21,Bennedict Mathurin,Pts+Rebs,24.5
+22,Josh Giddey,Pts+Rebs,26.5
+23,Andrew Nembhard,Pts+Rebs,16.5
+24,Andrew Nembhard,Pts+Rebs,16.5
+25,Aaron Nesmith,Pts+Rebs,16.5
+26,Luguentz Dort,Pts+Rebs,19.5
+27,Jaylin Williams,Pts+Rebs,12.5
+28,T.J. McConnell,Pts+Rebs,14.5
+29,Talen Horton-Tucker,Pts+Rebs,23.5
+30,Ochai Agbaji,Pts+Rebs,15.5
+31,Walker Kessler,Pts+Rebs,23.0
+32,Donovan Mitchell,Pts+Rebs,33.5
+33,Jalen Brunson,Pts+Rebs,28.5
+34,Darius Garland,Pts+Rebs,25.5
+35,RJ Barrett,Pts+Rebs,25.5
+36,Evan Mobley,Pts+Rebs,26.5
+37,Quentin Grimes,Pts+Rebs,15.5
+38,Caris LeVert,Pts+Rebs,17.5
+39,Lamar Stevens,Pts+Rebs,14.5
+40,Trae Young,Pts+Rebs,29.5
+41,LeBron James,Pts+Rebs,34.5
+42,Mikal Bridges,Pts+Rebs,31.5
+43,Anthony Davis,Pts+Rebs,37.5
+44,Dejounte Murray,Pts+Rebs,25.5
+45,D'Angelo Russell,Pts+Rebs,20.5
+46,Spencer Dinwiddie,Pts+Rebs,23.5
+47,Nicolas Claxton,Pts+Rebs,22.5
+48,Austin Reaves,Pts+Rebs,18.5
+49,Cameron Johnson,Pts+Rebs,21.5
+50,John Collins,Pts+Rebs,17.5
+51,Dorian Finney-Smith,Pts+Rebs,11.5
+52,Jalen Green,Pts+Rebs,26.5
+53,Jaden Ivey,Pts+Rebs,23.5
+54,Kevin Porter Jr.,Pts+Rebs,24.5
+55,Marvin Bagley III,Pts+Rebs,21.5
+56,Alperen Sengun,Pts+Rebs,24.5
+57,James Wiseman,Pts+Rebs,22.5
+58,Jabari Smith Jr.,Pts+Rebs,22.5
+59,Killian Hayes,Pts+Rebs,16.5
+60,Ja Morant,Pts+Rebs,33.5
+61,Kawhi Leonard,Pts+Rebs,32.5
+62,Desmond Bane,Pts+Rebs,25.5
+63,Jaren Jackson Jr.,Pts+Rebs,24.5
+64,Dillon Brooks,Pts+Rebs,15.0
+65,Xavier Tillman,Pts+Rebs,16.5
+66,De'Aaron Fox,Pts+Rebs,26.5
+67,Domantas Sabonis,Pts+Rebs,29.5
+68,Shaedon Sharpe,Pts+Rebs,27.5
+69,Harrison Barnes,Pts+Rebs,17.5
+70,Nassir Little,Pts+Rebs,19.5
+71,Drew Eubanks,Pts+Rebs,16.5
+72,Kevin Huerter,Pts+Rebs,18.5
+73,Keegan Murray,Pts+Rebs,16.5
+74,Stephen Curry,Pts+Rebs,34.5
+75,Klay Thompson,Pts+Rebs,25.5
+76,Draymond Green,Pts+Rebs,16.5
+77,Donte DiVincenzo,Pts+Rebs,11.5
+78,Jordan Poole,Pts+Rebs,23.5
+79,Devin Booker,Pts+Rebs,31.5
+80,Kevin Durant,Pts+Rebs,28.5
+81,Chris Paul,Pts+Rebs,16.5
+82,Deandre Ayton,Pts+Rebs,23.5
+0,Mark Williams,Pts+Asts,14.5
+1,P.J. Washington,Pts+Asts,23.5
+2,Joel Embiid,Pts+Asts,37.5
+3,Pascal Siakam,Pts+Asts,26.5
+4,James Harden,Pts+Asts,30.5
+5,Fred VanVleet,Pts+Asts,26.5
+6,Tyrese Maxey,Pts+Asts,24.5
+7,Scottie Barnes,Pts+Asts,19.5
+8,OG Anunoby,Pts+Asts,16.5
+9,Jakob Poeltl,Pts+Asts,14.5
+10,Kristaps Porzingis,Pts+Asts,29.5
+11,Paolo Banchero,Pts+Asts,24.5
+12,Monte Morris,Pts+Asts,17.5
+13,Wendell Carter Jr.,Pts+Asts,17.5
+14,Franz Wagner,Pts+Asts,21.5
+15,Markelle Fultz,Pts+Asts,20.5
+16,Deni Avdija,Pts+Asts,20.5
+17,Cole Anthony,Pts+Asts,17.5
+18,Jalen Suggs,Pts+Asts,11.5
+19,Bennedict Mathurin,Pts+Asts,22.5
+20,Jalen Williams,Pts+Asts,22.5
+21,Josh Giddey,Pts+Asts,25.5
+22,Aaron Nesmith,Pts+Asts,14.5
+23,Luguentz Dort,Pts+Asts,16.5
+24,T.J. McConnell,Pts+Asts,18.0
+25,Talen Horton-Tucker,Pts+Asts,23.5
+26,Ochai Agbaji,Pts+Asts,13.5
+27,Walker Kessler,Pts+Asts,13.5
+28,Donovan Mitchell,Pts+Asts,32.5
+29,Jalen Brunson,Pts+Asts,31.5
+30,Darius Garland,Pts+Asts,30.5
+31,RJ Barrett,Pts+Asts,22.5
+32,Evan Mobley,Pts+Asts,20.5
+33,Quentin Grimes,Pts+Asts,14.5
+34,Caris LeVert,Pts+Asts,17.5
+35,Trae Young,Pts+Asts,35.5
+36,LeBron James,Pts+Asts,31.5
+37,Mikal Bridges,Pts+Asts,30.5
+38,Anthony Davis,Pts+Asts,28.5
+39,Dejounte Murray,Pts+Asts,25.5
+40,D'Angelo Russell,Pts+Asts,22.5
+41,Spencer Dinwiddie,Pts+Asts,28.5
+42,Clint Capela,Pts+Asts,12.5
+43,Nicolas Claxton,Pts+Asts,14.5
+44,Austin Reaves,Pts+Asts,18.5
+45,Cameron Johnson,Pts+Asts,18.5
+46,John Collins,Pts+Asts,12.5
+47,Jalen Green,Pts+Asts,27.5
+48,Jaden Ivey,Pts+Asts,26.5
+49,Kevin Porter Jr.,Pts+Asts,25.5
+50,Marvin Bagley III,Pts+Asts,15.5
+51,Alperen Sengun,Pts+Asts,18.5
+52,James Wiseman,Pts+Asts,14.5
+53,Jabari Smith Jr.,Pts+Asts,16.5
+54,Killian Hayes,Pts+Asts,20.5
+55,Ja Morant,Pts+Asts,35.5
+56,Kawhi Leonard,Pts+Asts,30.5
+57,Desmond Bane,Pts+Asts,25.5
+58,Jaren Jackson Jr.,Pts+Asts,18.5
+59,Dillon Brooks,Pts+Asts,14.5
+60,Xavier Tillman,Pts+Asts,11.5
+61,De'Aaron Fox,Pts+Asts,27.5
+62,Domantas Sabonis,Pts+Asts,23.5
+63,Shaedon Sharpe,Pts+Asts,26.5
+64,Harrison Barnes,Pts+Asts,14.5
+65,Nassir Little,Pts+Asts,17.5
+66,Drew Eubanks,Pts+Asts,12.5
+67,Kevin Huerter,Pts+Asts,17.5
+68,Keegan Murray,Pts+Asts,12.5
+69,Stephen Curry,Pts+Asts,35.5
+70,Klay Thompson,Pts+Asts,23.5
+71,Draymond Green,Pts+Asts,16.5
+72,Donte DiVincenzo,Pts+Asts,10.5
+73,Jordan Poole,Pts+Asts,24.5
+74,Devin Booker,Pts+Asts,33.5
+75,Kevin Durant,Pts+Asts,26.5
+76,Chris Paul,Pts+Asts,21.5
+77,Deandre Ayton,Pts+Asts,15.5
+0,Mark Williams,Rebs+Asts,10.0
+1,P.J. Washington,Rebs+Asts,8.5
+2,Joel Embiid,Rebs+Asts,14.5
+3,Pascal Siakam,Rebs+Asts,12.5
+4,James Harden,Rebs+Asts,16.5
+5,Fred VanVleet,Rebs+Asts,10.5
+6,Scottie Barnes,Rebs+Asts,10.5
+7,Kristaps Porzingis,Rebs+Asts,11.5
+8,Paolo Banchero,Rebs+Asts,11.0
+9,Deni Avdija,Rebs+Asts,13.5
+10,Jalen Williams,Rebs+Asts,9.5
+11,Andrew Nembhard,Rebs+Asts,9.5
+12,Andrew Nembhard,Rebs+Asts,9.5
+13,Josh Giddey,Rebs+Asts,16.5
+14,T.J. McConnell,Rebs+Asts,11.0
+15,Talen Horton-Tucker,Rebs+Asts,9.5
+16,Walker Kessler,Rebs+Asts,12.0
+17,Jalen Brunson,Rebs+Asts,9.5
+18,Darius Garland,Rebs+Asts,10.5
+19,RJ Barrett,Rebs+Asts,7.5
+20,Evan Mobley,Rebs+Asts,12.5
+21,Caris LeVert,Rebs+Asts,8.5
+22,Trae Young,Rebs+Asts,12.5
+23,LeBron James,Rebs+Asts,13.5
+24,Anthony Davis,Rebs+Asts,14.0
+25,Dejounte Murray,Rebs+Asts,10.5
+26,Spencer Dinwiddie,Rebs+Asts,13.5
+27,Clint Capela,Rebs+Asts,12.0
+28,Nicolas Claxton,Rebs+Asts,12.0
+29,Jaden Ivey,Rebs+Asts,9.5
+30,Alperen Sengun,Rebs+Asts,13.5
+31,Marvin Bagley III,Rebs+Asts,8.5
+32,Jabari Smith Jr.,Rebs+Asts,9.5
+33,James Wiseman,Rebs+Asts,8.5
+34,Ja Morant,Rebs+Asts,13.5
+35,Kawhi Leonard,Rebs+Asts,11.5
+36,Desmond Bane,Rebs+Asts,8.5
+37,Jaren Jackson Jr.,Rebs+Asts,7.5
+38,Domantas Sabonis,Rebs+Asts,18.5
+39,Drew Eubanks,Rebs+Asts,9.5
+40,Stephen Curry,Rebs+Asts,12.5
+41,Draymond Green,Rebs+Asts,14.5
+42,Jordan Poole,Rebs+Asts,7.5
+43,Devin Booker,Rebs+Asts,9.5
+44,Kevin Durant,Rebs+Asts,10.5
+45,Chris Paul,Rebs+Asts,13.0
+46,Deandre Ayton,Rebs+Asts,9.5
+0,DeMar DeRozan,Free Throws Made,5.0
+1,Zach LaVine,Free Throws Made,4.5
+2,Nikola Vucevic,Free Throws Made,1.5
+3,Patrick Williams,Free Throws Made,0.5
+4,Coby White,Free Throws Made,0.5
+5,Pascal Siakam,Free Throws Made,4.5
+6,Fred VanVleet,Free Throws Made,2.5
+7,Jakob Poeltl,Free Throws Made,1.5
+8,Scottie Barnes,Free Throws Made,2.5
+9,Kristaps Porzingis,Free Throws Made,5.0
+10,Paolo Banchero,Free Throws Made,4.5
+11,Corey Kispert,Free Throws Made,0.5
+12,Markelle Fultz,Free Throws Made,1.5
+13,Monte Morris,Free Throws Made,0.5
+14,Cole Anthony,Free Throws Made,2.5
+15,Donovan Mitchell,Free Throws Made,4.5
+16,Jalen Brunson,Free Throws Made,4.5
+17,Darius Garland,Free Throws Made,3.0
+18,RJ Barrett,Free Throws Made,4.5
+19,Evan Mobley,Free Throws Made,3.0
+20,Quentin Grimes,Free Throws Made,0.5
+21,Caris LeVert,Free Throws Made,1.5
+22,Ricky Rubio,Free Throws Made,0.5
+23,Mitchell Robinson,Free Throws Made,0.5
+24,Mikal Bridges,Free Throws Made,6.5
+25,Trae Young,Free Throws Made,7.5
+26,Spencer Dinwiddie,Free Throws Made,3.5
+27,Dejounte Murray,Free Throws Made,2.5
+28,John Collins,Free Throws Made,1.5
+29,Cameron Johnson,Free Throws Made,2.5
+30,Bogdan Bogdanovic,Free Throws Made,0.5
+31,Royce O'Neale,Free Throws Made,0.5
+32,LeBron James,Free Throws Made,5.0
+33,Anthony Davis,Free Throws Made,6.5
+34,D'Angelo Russell,Free Throws Made,2.5
+35,Jalen Green,Free Throws Made,4.5
+36,Jaden Ivey,Free Throws Made,3.5
+37,Jabari Smith Jr.,Free Throws Made,1.5
+38,Killian Hayes,Free Throws Made,0.5
+39,James Wiseman,Free Throws Made,1.5
+40,Kevin Porter Jr.,Free Throws Made,3.5
+41,Alperen Sengun,Free Throws Made,1.5
+42,Ja Morant,Free Throws Made,6.5
+43,Kawhi Leonard,Free Throws Made,5.5
+44,Desmond Bane,Free Throws Made,2.0
+45,Jaren Jackson Jr.,Free Throws Made,4.0
+46,Dillon Brooks,Free Throws Made,0.5
+47,Ivica Zubac,Free Throws Made,1.5
+48,Santi Aldama,Free Throws Made,0.5
+49,Xavier Tillman,Free Throws Made,0.5
+50,De'Aaron Fox,Free Throws Made,4.0
+51,Domantas Sabonis,Free Throws Made,3.5
+52,Harrison Barnes,Free Throws Made,3.5
+53,Kevin Huerter,Free Throws Made,0.5
+54,Stephen Curry,Free Throws Made,4.5
+55,Klay Thompson,Free Throws Made,0.5
+56,Draymond Green,Free Throws Made,0.5
+57,Jordan Poole,Free Throws Made,3.5
+58,Devin Booker,Free Throws Made,6.0
+59,Kevin Durant,Free Throws Made,5.0
+60,Chris Paul,Free Throws Made,1.5
+61,Deandre Ayton,Free Throws Made,2.5
+0,Joel Embiid,Blks+Stls,2.5
+1,James Harden,Blks+Stls,1.5
+2,Scottie Barnes,Blks+Stls,1.5
+3,P.J. Tucker,Blks+Stls,0.5
+4,Kristaps Porzingis,Blks+Stls,2.5
+5,Corey Kispert,Blks+Stls,0.5
+6,Caris LeVert,Blks+Stls,1.5
+7,Anthony Davis,Blks+Stls,2.5
+8,Kevin Porter Jr.,Blks+Stls,1.5
+9,Jabari Smith Jr.,Blks+Stls,1.5
+10,Desmond Bane,Blks+Stls,1.5
+11,Xavier Tillman,Blks+Stls,1.5
+12,De'Aaron Fox,Blks+Stls,1.5
+13,Harrison Barnes,Blks+Stls,0.5
+14,Drew Eubanks,Blks+Stls,1.5
+15,Kevin Durant,Blks+Stls,1.5
+0,Austin Reaves,Steals,0.5
+1,Nassir Little,Steals,0.5
+2,Jordan Poole,Steals,0.5
+3,Chris Paul,Steals,1.5
+4,Deandre Ayton,Steals,0.5
+0,James Harden,Turnovers,3.5
+1,OG Anunoby,Turnovers,1.5
+2,Deni Avdija,Turnovers,2.5
+3,Cole Anthony,Turnovers,1.5
+4,Darius Garland,Turnovers,2.5
+5,RJ Barrett,Turnovers,2.5
+6,Lamar Stevens,Turnovers,0.5
+7,Austin Reaves,Turnovers,1.5
+8,James Wiseman,Turnovers,1.5
+9,Jaren Jackson Jr.,Turnovers,1.5
+10,Shaedon Sharpe,Turnovers,2.5
+11,Nassir Little,Turnovers,1.5
+12,Keegan Murray,Turnovers,0.5
+13,Draymond Green,Turnovers,2.5
+14,Jordan Poole,Turnovers,2.5
