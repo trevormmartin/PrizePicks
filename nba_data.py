@@ -20,7 +20,7 @@ L2W_unders = []
 # get distinct list of players in PrizePicks today
 # fetch PP lines
 timestr = time.strftime("%Y%m%d")
-dp = pd.read_csv('/Datasets/' + timestr + '_pp.csv')
+dp = pd.read_csv(r'./PrizePicks/Datasets/' + timestr + '_pp.csv')
 
 pp_players = dp['Name'].unique()
 
@@ -148,4 +148,4 @@ df2 = pd.DataFrame({"Name": player_names, "Stat": player_stats, "Line": player_l
 
 print(df2)
 
-df2.to_csv('/Datasets/' + timestr + '_probs.csv')
+df2.to_csv(r'./PrizePicks/Datasets/' + timestr + '_probs.csv', index=False)

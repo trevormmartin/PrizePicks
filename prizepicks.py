@@ -84,7 +84,7 @@ def main():
 
     timestr = time.strftime("%Y%m%d")
 
-    df.to_csv('/Datasets/' + timestr + '_pp.csv')
+    df.to_csv(r'./PrizePicks/Datasets/' + timestr + '_pp.csv', index=False)
 
     return df
 
